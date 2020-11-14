@@ -1,0 +1,18 @@
+Construa um app que realize a conversão de moedas.
+
+Para isso utilize a API pública https://exchangeratesapi.io/ como provedor de dados.
+
+Considere o wireframe https://marvelapp.com/954bf71 como uma orientação para desenvolvimento do app. Mas não se prenda a ela. Seja criativo na construção da UI.
+
+Você deverá: 
+       1 - Usar o channel stable do Flutter
+       2 - Faça uso de boas práticas de desenvolvimento
+       3 - Use conceitos de componentização e reaproveitamento
+       4 - Construir o layout de sign in, sem integração 
+       5 - Construir o layout de conversão juntamente com a integração
+       6 - Construir o layout do histórico juntamente com a integração. Todas as conversões deverão ser salvas e exibidas sempre que o usuário acessar o app.
+
+Bônus
+       - Uso de algum state management
+       - Uso de algum route management
+       - Uso de algum dependency injection
